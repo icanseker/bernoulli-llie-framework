@@ -1,0 +1,17 @@
+Image: 547.png
+Algorithm: Bernoulli
+I_mean: 15.67
+Status: PROCESSED
+Optimal_nu: 0.9650
+Optimal_t: 0.7571
+Total_evals: 510
+Preset: balanced
+Processing_time_sec: 0.5277
+
+--- Metrics ---
+Entropy: 7.4808
+CII: 9.6684
+NIQE: 4.1354
+PSNR: 13.5931
+MSE: 2842.9407
+SSIM: 0.7666

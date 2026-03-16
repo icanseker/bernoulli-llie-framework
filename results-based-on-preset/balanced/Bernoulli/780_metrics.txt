@@ -1,0 +1,17 @@
+Image: 780.png
+Algorithm: Bernoulli
+I_mean: 10.89
+Status: PROCESSED
+Optimal_nu: 0.9441
+Optimal_t: 0.8343
+Total_evals: 512
+Preset: balanced
+Processing_time_sec: 0.5444
+
+--- Metrics ---
+Entropy: 7.1733
+CII: 13.3827
+NIQE: 3.6166
+PSNR: 9.2031
+MSE: 7812.1506
+SSIM: 0.5308

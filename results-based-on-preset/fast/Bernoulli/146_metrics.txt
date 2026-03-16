@@ -1,0 +1,17 @@
+Image: 146.png
+Algorithm: Bernoulli
+I_mean: 24.24
+Status: PROCESSED
+Optimal_nu: 0.9737
+Optimal_t: 0.7047
+Total_evals: 115
+Preset: fast
+Processing_time_sec: 0.3228
+
+--- Metrics ---
+Entropy: 7.2485
+CII: 7.2310
+NIQE: 4.0050
+PSNR: 15.1688
+MSE: 1977.8721
+SSIM: 0.8268
